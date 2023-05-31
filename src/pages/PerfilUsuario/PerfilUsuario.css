@@ -1,0 +1,41 @@
+.center{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.center h1{
+    margin-bottom: 25px;
+}
+
+.foto-upload{
+    width: 250px;
+    height: 250px;
+    border: 2px solid #198754;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.area-usuario{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.linha-vertical{
+    border-left: 0.5px solid rgb(235, 235, 235);
+    height: 350px;
+    margin: 0 50px;
+}
+
+.form-larg{
+    width: 500px;
+    text-align: start
+}
+
+.botoes{
+    display: flex;
+    justify-content: space-around;
+}

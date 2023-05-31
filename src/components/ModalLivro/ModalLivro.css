@@ -1,0 +1,13 @@
+.ImgModal {
+    max-width: 450px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .modal-content {
+    background-color: #000;
+    color: #fff;
+    border: none;
+  }
+

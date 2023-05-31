@@ -1,0 +1,30 @@
+.not_found{
+    margin: auto;
+    display: flex;
+    text-align: center;
+    align-items: center;    
+    background-color: rgb(189, 13, 13);
+    flex-direction: column;
+}
+
+.not_found h1{
+    color: white;
+    font-size: 40px;
+}
+
+.not_found img{
+    width: 400px;
+}
+
+
+.button{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    color: black;
+    background-color: white ;
+}
+
+
+
+

@@ -1,0 +1,27 @@
+
+.header-footer {
+   bottom: 0;
+   background-color:rgb(189, 13, 13);
+   color:white;
+   font-family:Arial, Helvetica, sans-serif;
+   width: 100%;
+   margin-top: 20%;
+}
+
+.redes_sociais {
+   bottom: 0;
+   color:white;
+   font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.copy {
+   color:white;
+}
+
+
+a:link {
+   color:white;
+}
+
+

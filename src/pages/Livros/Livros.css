@@ -1,0 +1,13 @@
+td {
+    vertical-align: middle;
+    height: 100%;
+}
+
+td img {
+    height: 200px;
+}
+
+.botoes{
+    display: flex;    
+    justify-content: space-between;
+}
